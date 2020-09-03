@@ -1,0 +1,1 @@
+<p align = center><?php echo "Current Time: ".date("h:i:sa");?></p>
